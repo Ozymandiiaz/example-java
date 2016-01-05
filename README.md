@@ -1,9 +1,6 @@
 Codecov Java Example
 ====================
-[![Coverage Status](https://coveralls.io/repos/furknyavuz/example-java/badge.svg?branch=master&service=github)](https://coveralls.io/github/furknyavuz/example-java?branch=master)
-
-| [https://codecov.io][1] | [@codecov][2] | [hello@codecov.io][3] |
-| ----------------------- | ------------- | --------------------- |
+[![codecov.io](https://codecov.io/github/furknyavuz/example-java/coverage.svg?branch=master)](https://codecov.io/github/furknyavuz/example-java?branch=master)
 
 ## Usage
 
